@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "..\\Local Sites\\mysite\\app\\public\\wp-content\\themes\\myblog"
+		},
+		{
+			"path": "..\\OneDrive\\デスクトップ\\ポートフォリオ\\portfolio"
+		},
+		{
+			"path": "..\\work\\vue-chat"
+		},
+		{
+			"path": "..\\Local Sites\\testsite\\app\\public\\wp-content\\themes\\testsite"
+		},
+		{
+			"path": "..\\Local Sites\\testsite\\app\\public\\wp-content\\themes\\new_twentytwentytwo"
+		},
+		{
+			"path": "..\\OneDrive\\デスクトップ\\デイトラ\\Shopifyアドバンス\\shopify-daily-trial"
+		},
+		{
+			"path": "..\\OneDrive\\デスクトップ\\tabmenu"
+		},
+		{
+			"path": "..\\OneDrive\\デスクトップ\\vue-api"
+		},
+		{
+			"path": "..\\v-page\\vue3-page"
+		},
+		{
+			"path": "..\\OneDrive\\デスクトップ\\vue-pager"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
+}
